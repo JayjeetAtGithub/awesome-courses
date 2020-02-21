@@ -10,13 +10,8 @@ Table of Contents
 -----------------
 
 - [Algorithms](#algorithms)
-- [<s>Artificial Intelligence</s>](#artificial-intelligence)
-- [<s>Computer Graphics</s>](#computer-graphics)
-- [<s>CS Theory</s>](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
-- [<s>Machine Learning</s>](#machine-learning)
 - [Misc](#misc)
-- [Programming Languages / Compilers](#programming-languages--compilers)
 - [Security](#security)
 - [Systems](#systems)
 
