@@ -11,8 +11,8 @@ Table of Contents
 
 - [Algorithms](#algorithms)
 - [<s>Artificial Intelligence</s>](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
-- [CS Theory](#cs-theory)
+- [<s>Computer Graphics</s>](#computer-graphics)
+- [<s>CS Theory</s>](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
 - [<s>Machine Learning</s>](#machine-learning)
 - [Misc](#misc)
